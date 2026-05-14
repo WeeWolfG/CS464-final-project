@@ -1,1 +1,9 @@
-{"DEM_COL_1": "G24PREDHAR", "REP_COL_1": "G24PRERTRU", "DEM_COL_2": "G24USSDWAR", "REP_COL_2": "G24USSRDEA"}
+{
+  "DEM_COL_1": "G24PREDHAR",
+  "REP_COL_1": "G24PRERTRU",
+  "DEM_COL_2": "G24USSDWAR",
+  "REP_COL_2": "G24USSRDEA",
+  "snap_precision_used": 8,
+  "snap_precision_reason": "Used snap_precision=8 because snap_precision=10 failed during smart_repair. The lower precision is a reasonable fallback for tiny boundary mismatches.",
+  "min_rook_length": 30
+}
